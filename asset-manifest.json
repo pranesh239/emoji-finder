@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emoji-finder/static/css/main.b310fb38.chunk.css",
+    "main.js": "/emoji-finder/static/js/main.a53e14a2.chunk.js",
+    "main.js.map": "/emoji-finder/static/js/main.a53e14a2.chunk.js.map",
+    "runtime~main.js": "/emoji-finder/static/js/runtime~main.482c224c.js",
+    "runtime~main.js.map": "/emoji-finder/static/js/runtime~main.482c224c.js.map",
+    "static/js/2.e924234d.chunk.js": "/emoji-finder/static/js/2.e924234d.chunk.js",
+    "static/js/2.e924234d.chunk.js.map": "/emoji-finder/static/js/2.e924234d.chunk.js.map",
+    "index.html": "/emoji-finder/index.html",
+    "precache-manifest.1c52cf6d84151ce3af0cb7d564884687.js": "/emoji-finder/precache-manifest.1c52cf6d84151ce3af0cb7d564884687.js",
+    "service-worker.js": "/emoji-finder/service-worker.js",
+    "static/css/main.b310fb38.chunk.css.map": "/emoji-finder/static/css/main.b310fb38.chunk.css.map"
+  }
+}
